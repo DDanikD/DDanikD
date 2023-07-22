@@ -20,7 +20,11 @@
 </h1>
 
 ### :grey_exclamation: About Me :
-### :heavy_check_mark:Currently I'm student Wolfsburg 42 School.
+### :heavy_check_mark:Currently I'm student Wolfsburg 42 .
+
+---
+
+### :heavy_check_mark: My progress:
 
 
 
