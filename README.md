@@ -19,5 +19,5 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 [![ddidenko's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3128105)](https://github.com/JaeSeoKim/badge42)
-
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3128105" alt="ddidenko's 42 Born2beroot Score" /></a>
 
