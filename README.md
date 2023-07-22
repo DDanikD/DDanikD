@@ -10,7 +10,8 @@
    <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=Gmail&logoColor=red"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=DDanikD&style=flat-square&color=blue" alt=""/>
+  
 </div>
+<img src="https://komarev.com/ghpvc/?username=DDanikD&style=flat-square&color=blue" alt=""/>
 
 
