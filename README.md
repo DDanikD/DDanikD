@@ -12,6 +12,6 @@
   </a>
   
 </div>
-<img src="https://komarev.com/ghpvc/?username=DDanikD&style=plastic&color=pink" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=DDanikD&style=plastic&color=red" alt=""/>
 
 
