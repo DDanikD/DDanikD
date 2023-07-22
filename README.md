@@ -64,6 +64,12 @@ LIBFT:[![ddidenko's 42 Libft Score](https://badge42.vercel.app/api/v2/clke26ylw0
   
 </div>
 
+---
+
+### :fire: My Stats :
+
+https://github-readme-streak-stats.herokuapp.com/?user=DDanikD
+
 
 
 
