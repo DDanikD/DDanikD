@@ -18,9 +18,8 @@
   Hi, I'm Danik
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
+https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/stats?cursusId=21&coalitionId=354
 [![ddidenko's 42 stats](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/stats?cursusId=21&coalitionId=354)](https://github.com/JaeSeoKim/badge42)
-[![ddidenko's 42 push_swap Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3144941)](https://github.com/JaeSeoKim/badge42)
-
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/stats?cursusId=21&coalitionId=354" alt="ddidenko's 42 stats" /></a>
 
 
