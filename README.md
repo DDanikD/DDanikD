@@ -7,6 +7,9 @@
   <a href="your-youtube-URL">
     <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=Telegram&logoColor=white"/>
   </a>
+   <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=Gmail&logoColor=white"/>
+  </a>
 </div>
 
 
