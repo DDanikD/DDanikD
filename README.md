@@ -34,6 +34,22 @@
 
 PUSH_SWAP:[![ddidenko's 42 push_swap Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3144941)](https://github.com/JaeSeoKim/badge42)
 
+---
+
+BORN2BEROOT:[![ddidenko's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3128105)](https://github.com/JaeSeoKim/badge42)
+
+---
+
+FT_PRINTF:[![ddidenko's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3110143)](https://github.com/JaeSeoKim/badge42)
+
+---
+
+GET_NEXT_LINE:[![ddidenko's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3107801)](https://github.com/JaeSeoKim/badge42)
+
+---
+
+LIBFT:[![ddidenko's 42 Libft Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3092667)](https://github.com/JaeSeoKim/badge42)
+
 
 
 
