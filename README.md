@@ -20,7 +20,7 @@
 </h1>
 
 ### :large_blue_diamond: About Me :
-Currently I'm student Wolfsburg 42 School  width="30"> .
+large_blue_diamond:Currently I'm student Wolfsburg 42 School.
 
 
 
