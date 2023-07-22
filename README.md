@@ -11,9 +11,9 @@
     <img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=Gmail&logoColor=red"/>
   </a>
   
-
+</div>
 <img src="https://komarev.com/ghpvc/?username=DDanikD&style=plastic&color=red" alt=""/>
 {Hi I'm Danik}
-</div>
+
 
 
