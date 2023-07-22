@@ -19,7 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### :large_blue_diamond: About Me :
+### :black_circle: About Me :
 ### :large_blue_diamond:Currently I'm student Wolfsburg 42 School.
 
 
