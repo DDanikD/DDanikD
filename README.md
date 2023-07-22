@@ -4,6 +4,9 @@
   <a href="https://instagram.com/sunny.marshalo?igshid=OGQ5ZDc2ODk2ZA==">
   <img src="https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=white&style=plastic"/>
 </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=Telegram&logoColor=white"/>
+  </a>
 </div>
 
 
