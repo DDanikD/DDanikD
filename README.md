@@ -22,12 +22,10 @@
 [![ddidenko's 42 stats](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/stats?cursusId=21&coalitionId=354)](https://github.com/JaeSeoKim/badge42)
 
 <div id="header" align="left">
-
-https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3092667
   
-[![ddidenko's 42 Libft Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3092667)](https://github.com/JaeSeoKim/badge42)
+Libft[![ddidenko's 42 Libft Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3092667)](https://github.com/JaeSeoKim/badge42)
 
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3092667" alt="ddidenko's 42 Libft Score" /></a>
+
 
 </div>
 
