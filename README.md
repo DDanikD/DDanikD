@@ -19,11 +19,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 [![ddidenko's 42 stats](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/stats?cursusId=21&coalitionId=354)](https://github.com/JaeSeoKim/badge42)
-[![ddidenko's 42 push_swap Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3144941)](https://github.com/JaeSeoKim/badge42)
-[![ddidenko's 42 Born2beroot Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3128105)](https://github.com/JaeSeoKim/badge42)
-[![ddidenko's 42 ft_printf Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3110143)](https://github.com/JaeSeoKim/badge42)
-[![ddidenko's 42 get_next_line Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3107801)](https://github.com/JaeSeoKim/badge42)
-[![ddidenko's 42 Libft Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3092667)](https://github.com/JaeSeoKim/badge42)
+
 
 
 
