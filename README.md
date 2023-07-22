@@ -53,6 +53,9 @@ LIBFT:[![ddidenko's 42 Libft Score](https://badge42.vercel.app/api/v2/clke26ylw0
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="[https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java](https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg)https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width="40" height="40"/>&nbsp;
+  <div>
 
 
 
