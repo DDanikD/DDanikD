@@ -20,7 +20,7 @@
 </h1>
 
 ### :black_circle: About Me :
-### : heavy_check_mark:Currently I'm student Wolfsburg 42 School.
+### :heavy_check_mark:Currently I'm student Wolfsburg 42 School.
 
 
 
