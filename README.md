@@ -23,6 +23,8 @@
 
 <div id="header" align="left">
   
+[![ddidenko's 42 Libft Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3092667)](https://github.com/JaeSeoKim/badge42)
+
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3092667" alt="ddidenko's 42 Libft Score" /></a>
 
 </div>
