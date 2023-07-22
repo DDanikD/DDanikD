@@ -56,7 +56,6 @@ LIBFT:[![ddidenko's 42 Libft Score](https://badge42.vercel.app/api/v2/clke26ylw0
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/apple/apple-original.svg" title="apple" alt="apple" width="40" height="40"/>&nbsp;
-  <img src="" title="C" alt="C" width="40" height="40"/>&nbsp;
   
 </div>
 
