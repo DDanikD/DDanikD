@@ -50,7 +50,7 @@ GET_NEXT_LINE:[![ddidenko's 42 get_next_line Score](https://badge42.vercel.app/a
 
 ---
 
-LIBFT:[![ddidenko's 42 Libft Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3092667)](https://github.com/JaeSeoKim/badge42)
+Libft:[![ddidenko's 42 Libft Score](https://badge42.vercel.app/api/v2/clke26ylw003008la55aher81/project/3092667)](https://github.com/JaeSeoKim/badge42)
 
 
 </div>
