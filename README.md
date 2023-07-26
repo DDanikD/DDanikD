@@ -7,7 +7,7 @@
   <a href="https://t.me/DDanikD">
     <img src="https://img.shields.io/badge/Telegram-blue?style=plastic&logo=Telegram&logoColor=white"/>
   </a>
-   <a href="https://daniildidenko784@gmail.com">
+   <a href="mailto:daniildidenko784@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-white?style=plastic&logo=Gmail&logoColor=red"/>
   </a>
   
